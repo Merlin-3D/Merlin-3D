@@ -45,8 +45,8 @@ constantly adapt since the information technology environment is constantly evol
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://Merlin-3D.me/blog"><img src="https://img.shields.io/badge/-merlin-3d.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/merlin-deffo-7708381a9"><img src="https://img.shields.io/badge/merlin-deffo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://Merlin-3D.me/blog"><img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" /></a>
+<a href="https://www.linkedin.com/in/merlin-deffo-7708381a9"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 <a href="mailto:deffomerlin14@gmail.com"><img src="https://img.shields.io/badge/-deffomerlin14@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 ---
