@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Merlin </h1>
 
-<p align="center" width="150px">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 Innovative and creative full stack developer, able to develop applications with elegant concepts and
+<p align="center" width="150px">Innovative and creative full stack developer, able to develop applications with elegant concepts and
 innovative, Talented in project management, team leadership and independent problem solving
 I know how to stand out with my leadership and my sense of communication. My experience has also taught me to
 constantly adapt since the information technology environment is constantly evolving.</p>
